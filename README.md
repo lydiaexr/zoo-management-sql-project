@@ -23,7 +23,7 @@ The application uses a structured SQLite database and a user-friendly Python GUI
 - `zoo_db.db`: The SQLite database file
 - `zoo.sql`: SQL file used to generate the schema
 - `icons/`: Folder containing icons used in the UI
-- `report_omada47.pdf`: Full project report (Greek)
+- `report.pdf`: Full project report (Greek)
 - `README.txt`: Initial setup instructions (Greek)
 
 ---
